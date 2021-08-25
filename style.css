@@ -1,0 +1,26 @@
+body  {
+    background-color: rgb(224, 247, 236);
+}
+ 
+
+img.round {
+    width: 350px;
+   height: 350px;
+   border-radius: 50%;
+} 
+
+.text {
+ padding:30px;
+}
+
+.container {
+    padding:50px;
+    background-color: rgb(187, 228, 209);
+    box-shadow: 5px 5px 5px rgb(202, 202, 202)
+}
+p {
+    color: rgb(0, 34, 19);
+}
+h2 {
+    color: rgb(0, 34, 19);
+}
